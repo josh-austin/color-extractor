@@ -1,0 +1,10 @@
+.Container {
+    padding: 15px;
+    margin: 8px;
+    color: #FFF;
+    background: #E83E26; 
+}
+
+a, a:visited, a:hover {
+    color: #E83E26;
+}
