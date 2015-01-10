@@ -1,4 +1,4 @@
-# ![](https://raw.githubusercontent.com/josh-austin/color-extractor/master/icon.png) color-extractor
+# ![](https://raw.githubusercontent.com/josh-austin/color-extractor/master/icon.png) color-extractor [![Build Status](https://travis-ci.org/josh-austin/color-extractor.svg)](https://travis-ci.org/josh-austin/color-extractor)
 Extracts distinct colors from CSS and makes them LESS variables.
 
 ## Usage
