@@ -7,7 +7,7 @@ class Extractor:
         
     '''
     Returns the variable name if a variable with
-    the value <target> is found.
+    the value <value> is found.
     '''
     def find_variable_name(self, value):
         for var, val in self.variables.items():
